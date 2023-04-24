@@ -1,3 +1,2 @@
 # Blood-donor-finder-using-c++
-In my second semester e did this course using c++.
-DATA STRUCTURE
+This project build with c++ programming language. In this App We can create new donor with his infomations like name, dob, blood group, Contact details etc. When a user search for specific blood group at first the app check is he 18+ or not. then it will check the last date of donating blood. it only shows those peoples who are 18+ and donated blood 4 month before. and after donating blood last donating date will be updated. 
